@@ -1,4 +1,4 @@
-let score ="33abc"
+/*let score ="33abc"
 console.log(typeof score);//  first method check dataType 
 console.log(typeof (score));//second method check dataType 
 let valueInNumber =Number(score); // convert score in number
@@ -23,5 +23,31 @@ let somenumber=33
 let stringNumber= String(somenumber) // convert number into string
 console.log(stringNumber); //print string number =>33
 console.log( typeof  stringNumber); //check dataType => string
+*/
+//**********************************Operations***************************************
+/*let value=3
+let negValue= -value
+console.log(negValue);
+*/
+/*console.log(2+2); //add
+console.log(2-2);// minus
+console.log(2*2);// multiplication
+console.log(2**3);// 2 to the power 3
+console.log(2/3);//divide
+console.log(2%3);//reminder
+*/
+//*****************************add two strings***********************************************
+/* 
+let str1="Shivam";
+ let str2=" Sharma";
+ str3= str1+str2;
+ console.log(str3);
+ */
 
-
+ console.log("1"+2);// output=>12
+ console.log(1+"2");// output=>12
+ console.log("1"+"2");// output=>12
+ console.log("1"+2+2);// output=>122
+ console.log(1+2+"2");// output=>32
+ 
+        
